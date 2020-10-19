@@ -223,7 +223,7 @@ public class MyLinkedList<E> implements List<E> {
 
 	@Override
 	public E remove(int index) {
-		//TODO: FILL THIS IN!
+		//TODO: FILL THIS IN! fill
 		
 		E ele = get(index);
 		if(index == 0) {
